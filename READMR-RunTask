@@ -1,0 +1,6 @@
+1.Clone or Download the Zip from the git Repository.
+2.Extract the file and load it in visual code . 
+3. Install node modules by the command
+ — npm i (or) npm install 
+4.once node modules installed run thr command to run the react project as shown bellow.
+  — npm start
